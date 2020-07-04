@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sir_model/static/css/main.828bfe27.chunk.css",
+    "main.js": "/sir_model/static/js/main.45df48f7.chunk.js",
+    "main.js.map": "/sir_model/static/js/main.45df48f7.chunk.js.map",
+    "runtime-main.js": "/sir_model/static/js/runtime-main.3339feaf.js",
+    "runtime-main.js.map": "/sir_model/static/js/runtime-main.3339feaf.js.map",
+    "static/js/2.54e5bd55.chunk.js": "/sir_model/static/js/2.54e5bd55.chunk.js",
+    "static/js/2.54e5bd55.chunk.js.map": "/sir_model/static/js/2.54e5bd55.chunk.js.map",
+    "index.html": "/sir_model/index.html",
+    "precache-manifest.7acc2f07306f25982566559e05fe4831.js": "/sir_model/precache-manifest.7acc2f07306f25982566559e05fe4831.js",
+    "service-worker.js": "/sir_model/service-worker.js",
+    "static/css/main.828bfe27.chunk.css.map": "/sir_model/static/css/main.828bfe27.chunk.css.map",
+    "static/js/2.54e5bd55.chunk.js.LICENSE.txt": "/sir_model/static/js/2.54e5bd55.chunk.js.LICENSE.txt",
+    "static/media/pause.png": "/sir_model/static/media/pause.70987b9a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3339feaf.js",
+    "static/js/2.54e5bd55.chunk.js",
+    "static/css/main.828bfe27.chunk.css",
+    "static/js/main.45df48f7.chunk.js"
+  ]
+}
