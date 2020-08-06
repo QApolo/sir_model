@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.93bcfeea.chunk.css",
-    "main.js": "/static/js/main.d7374b3e.chunk.js",
-    "main.js.map": "/static/js/main.d7374b3e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.94a3b90d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.94a3b90d.js.map",
-    "static/js/2.85bdfdf7.chunk.js": "/static/js/2.85bdfdf7.chunk.js",
-    "static/js/2.85bdfdf7.chunk.js.map": "/static/js/2.85bdfdf7.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2a856884e20909744ae605910440c6f3.js": "/precache-manifest.2a856884e20909744ae605910440c6f3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.93bcfeea.chunk.css.map": "/static/css/main.93bcfeea.chunk.css.map",
-    "static/js/2.85bdfdf7.chunk.js.LICENSE.txt": "/static/js/2.85bdfdf7.chunk.js.LICENSE.txt",
-    "static/media/move.png": "/static/media/move.1319b459.png",
-    "static/media/pause.png": "/static/media/pause.70987b9a.png",
-    "static/media/power.png": "/static/media/power.8639a4da.png"
+    "main.css": "/sir_model/static/css/main.1ff5bc72.chunk.css",
+    "main.js": "/sir_model/static/js/main.5dcbff8f.chunk.js",
+    "main.js.map": "/sir_model/static/js/main.5dcbff8f.chunk.js.map",
+    "runtime-main.js": "/sir_model/static/js/runtime-main.3339feaf.js",
+    "runtime-main.js.map": "/sir_model/static/js/runtime-main.3339feaf.js.map",
+    "static/js/2.0be9f5a1.chunk.js": "/sir_model/static/js/2.0be9f5a1.chunk.js",
+    "static/js/2.0be9f5a1.chunk.js.map": "/sir_model/static/js/2.0be9f5a1.chunk.js.map",
+    "index.html": "/sir_model/index.html",
+    "precache-manifest.09dc83cf71ae5d467590214981ba3852.js": "/sir_model/precache-manifest.09dc83cf71ae5d467590214981ba3852.js",
+    "service-worker.js": "/sir_model/service-worker.js",
+    "static/css/main.1ff5bc72.chunk.css.map": "/sir_model/static/css/main.1ff5bc72.chunk.css.map",
+    "static/js/2.0be9f5a1.chunk.js.LICENSE.txt": "/sir_model/static/js/2.0be9f5a1.chunk.js.LICENSE.txt",
+    "static/media/move.png": "/sir_model/static/media/move.1319b459.png",
+    "static/media/pause.png": "/sir_model/static/media/pause.70987b9a.png",
+    "static/media/power.png": "/sir_model/static/media/power.8639a4da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.94a3b90d.js",
-    "static/js/2.85bdfdf7.chunk.js",
-    "static/css/main.93bcfeea.chunk.css",
-    "static/js/main.d7374b3e.chunk.js"
+    "static/js/runtime-main.3339feaf.js",
+    "static/js/2.0be9f5a1.chunk.js",
+    "static/css/main.1ff5bc72.chunk.css",
+    "static/js/main.5dcbff8f.chunk.js"
   ]
 }
